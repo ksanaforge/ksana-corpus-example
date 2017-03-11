@@ -1,2 +1,2 @@
-# ksana-corpus-example
+# example-corpus
 example for ksana-corpus

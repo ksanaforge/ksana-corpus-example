@@ -1,0 +1,9 @@
+{
+	"name":"manual",
+	"title":"Accelon2017標記手冊",
+	"rendClass":["kai"],
+	"files":[
+		"article.xml",
+		"buildstep.xml"
+	]
+}
