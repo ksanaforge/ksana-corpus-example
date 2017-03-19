@@ -3,17 +3,33 @@
 
 <article>連結</article>
 
+<h1>連到Corpus位址</h1>
+＜l to="taisho@1p1b1512-16"＞ 從某段文字連出
+連到大正藏<k to="taisho@1p1b1512-16">經文</k>，另一段<k to="taisho@1p1c0500-05">經文</k>
+
 <h1>自定識別符</h1>
-<tag>a n="識別符"</tag>  定義錨點
-<tag>任何標記 to="目標"</tag>   從某段文字連出
+識別符的作用同 html 的 anchor id。適合文字還在變動，位址不固定的場合。
 
-<h1>連到位址</h1>
-link to anchor or kpos
+＜a n="識別符"＞ 或 ＜a name="識別符"＞ 定義錨點　(格式一)
+＜?識別符?＞ 定義錨點 (格式二)
+＜link to="識別符"＞   從某段文字連出
+例如：<link target="進階設定">進階設定</link>
 
-<h1>雙向連結</h1>
+如果識別符和包夾文字一致，可以省略
+＜link＞識別符＜/link＞
+例如：<link>進階設定</link>
+
+
+識別符不得以數字開頭，以免與位址混淆。
+
+<h1>內部雙向連結</h1>
+bilink to taisho
+
+<h1>外部雙向連結</h1>
 bilink to taisho  雙向連結
 
 <h1>出處連結</h1>
 origin 出處
+
 
 </file>
