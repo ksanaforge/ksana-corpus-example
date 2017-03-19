@@ -7,7 +7,7 @@
 		,"footnotes":"footnotes.json"
 	},
 	"files":[
-		"link.xml","intro.xml","article.xml","footnote.xml","buildstep.xml","head.xml","layout.xml",
+		"intro.xml","article.xml","link.xml","footnote.xml","buildstep.xml","head.xml","layout.xml",
 		"variants.xml","jsonconfig.xml","epilogue.xml"
 	]
 }
