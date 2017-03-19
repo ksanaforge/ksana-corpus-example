@@ -1,0 +1,14 @@
+<file>
+<article>標記常見錯誤</article>
+
+<h1> 少了 / 沒關好 (Unexpected close tag)，最後才回報，並列出tag stack<h1>
+
+<h3> h2沒有對關的open tag，並列出tag stack</h2>
+
+<#xx>錯誤的名稱，立刻回報
+
+<yy a=v2>屬性沒有雙引號</yy>
+
+<xx a="v1"b="v2">屬性少了空白</xx>
+
+</file>

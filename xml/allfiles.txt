@@ -1,0 +1,2 @@
+"intro.xml","article.xml","link.xml","buildstep.xml","head.xml","layout.xml",
+		"variants.xml","jsonconfig.xml","epilogue.xml"

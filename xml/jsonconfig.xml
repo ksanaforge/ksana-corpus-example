@@ -1,4 +1,7 @@
-進階設定
+<file>
+<pb n="1"/>
+<article>進階設定</article>
+<?設定?>
 
 bits pattern
 
@@ -7,12 +10,13 @@ bits pattern
 設定樹狀目錄的根節點。
 預設值為 article ，即每個article 的 h1 為第一層節點，h2為第二層節點
 
-如果樹狀目錄跨多個article，則指定 subtoc ="h0"
+如果樹狀目錄跨多個article，則指定 toc:"h0"
 以 h0 做為樹狀目錄的根節點。
 
 JSON 檔命名規則
 
-
-files 指定原始檔案，不指定會讀取目錄下所有 xml 並以檔名排序依據，數字應以0對齊，以免排序錯誤。\
+files 指定原始檔案，不指定會讀取目錄下所有 xml 並以檔名排序依據，數字應以0對齊，以免排序錯誤。
 
 載入外部 JSON
+
+</file>

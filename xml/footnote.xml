@@ -1,12 +1,21 @@
-<xml>
+<file>
 <pb n="1"/>
-
 <article>注釋</article>
-ptr
-def
 
-fn
+<h1>內部注釋</h1>
+<tag>ptr</tag> 內文中的腳注號
+<tag>def</tag> 定義注釋
 
+<h1>上標注釋</h1>
+<tag>rubynote t="上標注釋"</tag>
 
+<h1>外部注釋</h1>
+<tag>fn</tag> 外部注釋
+<fn n="fn1"/>
+注釋內參照
+<fn n="fn2"/>
 
-</xml>
+引用大正藏
+引用其他資料庫
+
+</file>

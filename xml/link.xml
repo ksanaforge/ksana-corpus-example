@@ -1,11 +1,19 @@
-<xml>
+<file>
 <pb n="1"/>
 
 <article>連結</article>
-a n
-xx to
 
-bilink to taisho
+<h1>自定識別符</h1>
+<tag>a n="識別符"</tag>  定義錨點
+<tag>任何標記 to="目標"</tag>   從某段文字連出
 
+<h1>連到位址</h1>
+link to anchor or kpos
 
-</xml>
+<h1>雙向連結</h1>
+bilink to taisho  雙向連結
+
+<h1>出處連結</h1>
+origin 出處
+
+</file>

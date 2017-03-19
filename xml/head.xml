@@ -1,13 +1,12 @@
-<xml>
+<file>
 <pb n="1"/>
-
 <article>樹狀目錄標記</article>
 
+<tag>h1</tag> 第一階標記
+<tag>h2</tag> 第二階標記
+和HTML不同的是，層數可以超過6層，沒有限制。
 
+如果 樹狀目錄超過一個<tag>article</tag>的範圍，
+應以<tag>h0</tag>標記，並在corpus json 指定 toc:"h0"
 
-<h1>標記</h1>
-<h2>文章</h2>
-
-<h2>文章群</h2>
-
-</xml>
+</file>
