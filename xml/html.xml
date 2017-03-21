@@ -1,0 +1,12 @@
+<file>
+<pb n="1"/>
+<article>嵌入表格</article>
+<![CDATA[<table border="1"><tbody><tr><td><span class="kai">楷體</span></td><td>Kai</td></tr>
+<tr><td>明體</td><td>Ming</td></tr>
+<tr><td>明體</td><td>Ming</td></tr>
+<tr><td>明體</td><td>Ming</td></tr>
+<tr><td>明體</td><td>Ming</td></tr>
+</tbody></table>]]>
+這是HTML表格，表格佔獨立一整行，內容無法被選取。
+<pb n="2"/>
+</file>

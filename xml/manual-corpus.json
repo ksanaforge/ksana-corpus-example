@@ -6,8 +6,9 @@
 		"bigrams":"bigrams.json"
 		,"footnotes":"footnotes.json"
 	},
+	"images":["visuddhimagga.jpg","logo-small.png"],
 	"files":[
-		"intro.xml","article.xml","link.xml","footnote.xml","buildstep.xml","head.xml","layout.xml",
+		"graphic.xml","html.xml","intro.xml","article.xml","link.xml","footnote.xml","buildstep.xml","head.xml","layout.xml",
 		"variants.xml","jsonconfig.xml","epilogue.xml"
 	]
 }

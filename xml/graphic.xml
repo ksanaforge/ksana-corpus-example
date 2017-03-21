@@ -1,12 +1,11 @@
 <xml>
 <pb n="1"/>
+<article>圖檔</article>
 
-<article>圖表</article>
-ptr
-def
+這是內嵌<img n="logo-small.png"/>圖形<img n="logo-small.png"/>
 
-fn
-
-
+<img n="visuddhimagga.jpg">
+覺者尊者獻清淨道論
+</img>
 
 </xml>
