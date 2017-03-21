@@ -2,7 +2,8 @@
 <pb n="1"/>
 <article>圖檔</article>
 
-這是內嵌<img n="logo-small.png"/>圖形<img n="logo-small.png"/>
+這是內嵌<img n="logo-small.png"/>圖形<img n="img/logo-small.png"/>
+子目錄名稱可省略。
 
 <img n="visuddhimagga.jpg">
 覺者尊者獻清淨道論

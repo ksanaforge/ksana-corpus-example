@@ -6,9 +6,18 @@
 		"bigrams":"bigrams.json"
 		,"footnotes":"footnotes.json"
 	},
-	"images":["visuddhimagga.jpg","logo-small.png"],
+	"images":["img/visuddhimagga.jpg","img/logo-small.png"],
 	"files":[
-		"graphic.xml","html.xml","intro.xml","article.xml","link.xml","footnote.xml","buildstep.xml","head.xml","layout.xml",
-		"variants.xml","jsonconfig.xml","epilogue.xml"
+		"intro.xml",
+		"buildstep.xml",
+		"article.xml",
+		"link.xml",
+		"footnote.xml",
+		"html.xml",
+		"head.xml",
+		"layout.xml",
+		"variants.xml",
+		"jsonconfig.xml",
+		"graphic.xml","epilogue.xml"
 	]
 }
