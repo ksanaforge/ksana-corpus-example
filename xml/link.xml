@@ -3,13 +3,13 @@
 
 <article>連結</article>
 
-<h1>互文連結</h1>
+<h1>互文連結 虛線</h1>
 ＜k to="taisho@1p1b1512-16"＞ 從某段文字連出
 連到大正藏<k to="taisho@1p1b1512-16">經文</k>，另一段<k to="taisho@1p1c0500-05">經文</k>
 
-<h1>連到外部網址</h1>
+<h1>連到外部網址 實線</h1>
 ＜link to="http://xxxxxx"＞ 從某段文字連到網址
-連結內的文字無法部份選取。
+<link to="https://github.com/ksanaforge/manual-corpus">標記手冊github repo</link>。連結內的文字無法部份選取。
 
 <h1>連到識別符</h1>
 識別符的作用同 html 的 anchor id。適合文字還在變動，位址尚未固定的場合。

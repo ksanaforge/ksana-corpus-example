@@ -1,2 +1,2 @@
-# example-corpus
+# Manual Corpus
 example for ksana-corpus
