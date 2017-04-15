@@ -1,23 +1,25 @@
 {
 	"id":"manual",
 	"title":"Accelon2017標記手冊",
-	"rendClass":["kai","b","tag","l"],
+	"rendClass":["b","kai","tag"],
 	"external":{
 		"bigrams":"bigrams.json"
 		,"footnotes":"footnotes.json"
+		,"k<taisho":"links.json"
 	},
-	"images":["img/visuddhimagga.jpg","img/logo-small.png"],
+	"images":["img/visuddhimagga.jpg","img/logo-small.png","img/rotating.svg"],
 	"files":[
-		"intro.xml",
-		"buildstep.xml",
-		"article.xml",
-		"link.xml",
-		"footnote.xml",
-		"html.xml",
-		"head.xml",
-		"layout.xml",
-		"variants.xml",
-		"jsonconfig.xml",
-		"graphic.xml","epilogue.xml"
+		"intro.xml"
+		,"buildstep.xml"
+		,"article.xml"
+		,"link.xml"
+		,"footnote.xml"
+		,"html.xml"
+		,"head.xml"
+		,"layout.xml"
+		,"variants.xml"
+		,"jsonconfig.xml"
+		,"graphic.xml"
+		,"epilogue.xml"
 	]
 }
