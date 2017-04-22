@@ -18,7 +18,7 @@
 <pb n="2"/>
 <h2>標記作業：</h2>
 一）修改原始檔，格式通常是 XML ，本系統預設採用一種preformatted 的類XML標記格式，省去lb 標記，比較精簡。
-二）用 <link target="https://rawgit.com/ksanaforge/corpus-forge/master/">corpus-forge</link> 轉換成 .cor 。大型資料庫(如大正藏)必須使用 nodejs
+二）用 <link target="https://rawgit.com/ksanaforge/corpus-forge/master/">corpus-forge</link> 轉換成 .cor 。大型資料庫(如大正藏)必須使用 nodejs，參考 <link target="https://github.com/ksanaforge/manual-corpus/">手冊原始檔</link>的 gen.js
 三）使用Accelon 2017 打開檢視。
 
 <h1>散佈</h1>

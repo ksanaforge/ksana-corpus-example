@@ -1,6 +1,6 @@
 <file>
 <pb n="1"/>
-<article>嵌入表格</article>
+<article>嵌入表格或其他HTML指令</article>
 <![CDATA[<table border="1"><tbody><tr><td><span class="kai">楷體</span></td><td>Kai</td></tr>
 <tr><td>明體</td><td>Ming</td></tr>
 <tr><td>明體</td><td>Ming</td></tr>

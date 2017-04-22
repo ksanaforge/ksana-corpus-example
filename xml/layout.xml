@@ -1,12 +1,12 @@
-<xml>
+<file>
 <pb n="1"/>
 <article>排版</article>
 「<kai>楷體</kai>和<b>粗體</b>」
 
-上標<rubynote t="腳注"/>文字不佔字位，腳注不會被全文搜索到。
+<p>上標<rubynote t="腳注"/>文字不佔字位，腳注不會被全文搜索到。
 「上標小注會往左緊貼最近的文字！。<rubynote t="(2)"/>而不會在標點之後。
 ！！！<rubynote t="開頭"/>除非此行以標點開始，才會到開頭。
-因為css的限制，上標字在段落模式時，會改為佔字位的內嵌方式。
+因為css的限制，上標字在段落模式時，會改為佔字位的內嵌方式。</p>
 
 <p>同一行的第<kai>一</kai>段，</p><p>同一行的第<kai>二</kai>段</p>
 <p>這兩行
@@ -17,4 +17,4 @@ combined in <tag>p</tag> layout, line start with non-CJK
 will have <b>one</b> spacing</p>
 
 
-</xml>
+</file>
