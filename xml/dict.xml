@@ -1,0 +1,20 @@
+<file>
+<pb n="1"/>
+<article>辭典</article>
+corpus.json 設定 keyField,
+資料庫中會產生 kfields，
+每個 kfield 有三個欄位：key, value 和 kpos ，以 key 排序 。
+如果 entry 沒有屬性，則無 value。
+如果 entry 只有一個屬性，key value 就是該字串值。
+多於一個屬性，則為含有屬性名及值之物件
+<entry n="e1">條目一</entry>
+
+<entry>條目二</entry>
+
+<entry n="e3">三</entry>
+
+<entry n="e4">條目四</entry>
+
+<entry n="e5">條五</entry>
+
+</file>
