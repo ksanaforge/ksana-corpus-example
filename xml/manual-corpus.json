@@ -2,7 +2,7 @@
 	"id":"manual",
 	"title":"Accelon2017標記手冊",
 	"keyField":["entry"],
-	"rendClass":["b","kai","tag","entry"],
+	"rendClass":["b","kai","tag","closetag","entry"],
 	"external":{
 		"bigrams":"bigrams.json"
 		,"footnotes":"footnotes.json"

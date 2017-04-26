@@ -4,6 +4,10 @@
 一個資料庫至少要有<tag>pb</tag>及<tag>article</tag>兩種標記。
 每個檔定規定必須由有一個根節點，名稱建議是file。
 
+<tag>article</tag>標記原書已有之文字<closetag>article </closetag>
+
+<tag>article t=原書不存在之文字</tag>
+
 <h1>版面標記</h1>
 按照原書的分冊分頁及分行。
 分冊的原則是，每逢有一個第一頁即為新的一冊。

@@ -2,9 +2,11 @@
 <pb n="1"/>
 <article>樹狀目錄標記</article>
 
-<tag>h1</tag> 第一階標記
-<tag>h2</tag> 第二階標記
+<tag>h1</tag> 第一階標記<closetag>h1</closetag>
+<tag>h2</tag> 第二階標記<closetag>h1</closetag>
 和HTML不同的是，層數可以超過6層，沒有限制。
+
+<tag>h1 t=原書不存在之文字</tag>
 
 如果 樹狀目錄超過一個<tag>article</tag>的範圍，
 應以<tag>h0</tag>標記，並在corpus json 指定 toc:"h0"

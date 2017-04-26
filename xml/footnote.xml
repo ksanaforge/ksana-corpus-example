@@ -3,8 +3,13 @@
 <article>注釋</article>
 
 <h1>內部注釋</h1>
-<tag>ptr</tag> 內文中的腳注號
+<tag>ptr</tag> 內文中的腳注號。
 <tag>def</tag> 定義注釋
+
+內文內文<ptr n="a1"/>內文內文<ptr n="a2"/>內文內文
+
+<def n="a1">def 1</def>
+<def n="a2">def 2</def>
 
 <h1>上標注釋</h1>
 <tag>rubynote t="上標注釋"</tag>
