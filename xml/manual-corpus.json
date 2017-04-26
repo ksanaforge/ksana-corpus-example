@@ -8,6 +8,18 @@
 		,"footnotes":"footnotes.json"
 		,"k<taisho":"links.json"
 	},
+	"kfields":{
+		"k1":"kfields.json"
+	},
+	"gfields":{
+		"g1":"gfields.json"
+	},
+	"afields":{
+		"a1":"afields.json"
+	},
+	"fields":{
+		"f1":"fields.json"
+	},
 	"images":["img/visuddhimagga.jpg","img/logo-small.png","img/rotating.svg"],
 	"files":[
 		"intro.xml"

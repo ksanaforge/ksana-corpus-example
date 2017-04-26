@@ -7,13 +7,13 @@ corpus.json 設定 keyField,
 如果 entry 沒有屬性，則無 value。
 如果 entry 只有一個屬性，key value 就是該字串值。
 多於一個屬性，則為含有屬性名及值之物件
-<entry n="e1">條目一</entry>
+<entry n="e1" m="kk">條目一</entry>
 
-<entry>條目二</entry>
+<entry>條目三</entry>
 
 <entry n="e3">三</entry>
 
-<entry n="e4">條目四</entry>
+<entry n="e4">條目七</entry>
 
 <entry n="e5">條五</entry>
 
