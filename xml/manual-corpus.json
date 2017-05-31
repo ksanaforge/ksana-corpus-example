@@ -3,6 +3,7 @@
 	"title":"Accelon2017標記手冊",
 	"keyField":["entry"],
 	"rendClass":["b","kai","tag","closetag","entry"],
+	"removePunc":true,
 	"external":{
 		"bigrams":"bigrams.json"
 		,"footnotes":"footnotes.json"
